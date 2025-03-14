@@ -11,6 +11,6 @@ This tool provides automatic segmentation of Glioblastoma from multiparametric M
 The images needed for inference are: T2 weighted, ADC and Vascular Permeability.
 
 The output is divided into three classes: Tumor Core, Peritumor, Edema and Heathly.
---------
+
 
 Feel free to contact us for any problems or suggestions.
